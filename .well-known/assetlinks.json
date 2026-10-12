@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mieweb.pulse",
+      "sha256_cert_fingerprints": [
+        "C0:93:80:67:58:8C:3A:A8:EE:86:B9:47:93:25:96:1A:BE:30:12:D7:69:B9:E3:F3:30:3B:9A:4C:C4:67:B4:B1",
+        "09:A6:A4:62:B0:8D:EC:40:40:5A:76:7E:A8:C7:6D:BC:3C:9F:8C:84:0C:3D:20:87:73:97:75:CB:2C:D5:3A:4F"
+      ]
+    }
+  }
+]
